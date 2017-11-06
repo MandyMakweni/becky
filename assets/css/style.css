@@ -1,0 +1,30 @@
+body{
+  background-color: #e6ffff;
+
+}
+
+section{
+  text-align: center;
+  float: left;
+  font-family: fantasy;
+
+}
+
+h2
+{
+    text-decoration: underline;
+    color: #777;
+    text-transform: uppercase;
+}
+p{
+  text-transform: uppercase;
+
+}
+hr{
+  margin-left: 80px;
+  margin-right: 80px;
+}
+img{
+
+  border-radius: 60px;
+}
